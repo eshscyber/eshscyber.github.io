@@ -60,15 +60,11 @@ a img{
   display: none !important;
 }
 
-
 .android-logo-image {
   height: 28px;
   width: 252px;
 }
 
-.android-logo-image--white {
-  height: 28px;
-  width: 149px;
 }
 
 .android-header {
