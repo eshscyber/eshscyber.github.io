@@ -122,7 +122,7 @@ a img{
   }
 
     .android-navigation .mdl-navigation__link:hover {
-      border-bottom: 4px solid #8bc34a;
+      border-bottom: 4px solid #3F51B5;
     }
 
   .android-search-box {
@@ -156,12 +156,12 @@ a img{
   }
 
   .android-drawer span.mdl-navigation__link.mdl-navigation__link {
-    color: #8bc34a;
+    color: #3F51B5;
   }
 
   .android-drawer .mdl-layout-title {
     position: relative;
-    background: #6ab344;
+    background: #303F9F;
     height: 160px;
   }
 
@@ -329,11 +329,11 @@ a img{
 
 .android-link {
   text-decoration: none;
-  color: #8bc34a !important;
+  color: #3F51B5 !important;
 }
 
   .android-link:hover {
-    color: #7cb342 !important;
+    color: #303F9F !important;
   }
 
   .android-link .material-icons {
@@ -344,12 +344,12 @@ a img{
 
 .android-alt-link {
   text-decoration: none;
-  color: #64ffda !important;
+  color: #00BCD4 !important;
   font-size: 16px;
 }
 
   .android-alt-link:hover {
-    color: #00bfa5 !important;
+    color: #0097A7 !important;
   }
 
   .android-alt-link .material-icons {
@@ -539,11 +539,13 @@ a img{
   .android-footer .mdl-mega-footer--bottom-section {
     display: none;
   }
+
   @font-face{
-    font-family:notoemoji;
+    font-family: notoemoji;
     src: url(https://github.com/googlei18n/noto-emoji/raw/master/fonts/NotoEmoji-Regular.ttf);
   }
+
   .emoji{
-    font-family:notoemoji
+    font-family: notoemoji
   }
 }
