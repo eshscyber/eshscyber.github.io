@@ -539,4 +539,11 @@ a img{
   .android-footer .mdl-mega-footer--bottom-section {
     display: none;
   }
+  @font-face{
+    font-family:notoemoji;
+    src: url(https://github.com/googlei18n/noto-emoji/raw/master/fonts/NotoEmoji-Regular.ttf);
+  }
+  .emoji{
+    font-family:notoemoji
+  }
 }
