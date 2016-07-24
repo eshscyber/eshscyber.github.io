@@ -61,8 +61,8 @@ a img{
 }
 
 .android-logo-image {
-  height: 28px;
-  width: 252px;
+  height: 28px !important;
+  width: 252px !important;
 }
 
 }
