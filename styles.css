@@ -174,8 +174,9 @@ a img{
   position: relative;
   background-color: #f3f3f3;
   background: url('images/cybereagles.png');
-  background-repeat:no-repeat;
-  background-size:50%;
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: center;
 }
 
 .logo-font {
