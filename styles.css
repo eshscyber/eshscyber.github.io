@@ -172,11 +172,13 @@ a img{
 
 .android-be-together-section {
   position: relative;
+  height: 800px;
+  width: auto;
   background-color: #f3f3f3;
   background: url('images/cybereagles.png');
   background-repeat: no-repeat;
   background-size: 30%;
-  background-position: 50% 65%;
+  background-position: center center;
 }
 
 .logo-font {
