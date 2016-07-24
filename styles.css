@@ -175,8 +175,8 @@ a img{
   height: 800px;
   width: auto;
   background-color: #f3f3f3;
-  background: url('images/cybereagles.png') center 30% no-repeat;
-  background-size: contain;
+  background: url('images/cybereagles.png') center 200px no-repeat;
+  background-size: center;
 }
 
 .logo-font {
