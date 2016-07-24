@@ -172,8 +172,8 @@ a img{
 
 .android-be-together-section {
   position: relative;
-  height: 800px;
-  width: auto;
+  height: auto;
+  width: 100%;
   background-color: #f3f3f3;
   background: url('images/cybereagles.png') center 30% no-repeat;
   background-size: cover;
