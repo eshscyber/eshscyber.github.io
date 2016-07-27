@@ -543,12 +543,15 @@ a img{
     display: none;
   }
 
-  @font-face{
+  @font-face {
     font-family: notoemoji;
     src: url(https://github.com/googlei18n/noto-emoji/raw/master/fonts/NotoEmoji-Regular.ttf);
   }
 
-  .emoji{
+  .emoji {
     font-family: notoemoji
   }
-}
+
+  .mdl-menu__container is-upgraded {
+    z-index: +1; position:relative;
+  }
