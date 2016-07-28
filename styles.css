@@ -551,7 +551,3 @@ a img{
   .emoji {
     font-family: notoemoji
   }
-
-  .mdl-menu__container is-upgraded {
-    z-index: 100; position:inherit;
-  }
