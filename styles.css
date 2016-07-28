@@ -553,5 +553,5 @@ a img{
   }
 
   .mdl-menu__container is-upgraded {
-    z-index: 100; position:relative;
+    z-index: 100; position:inherit;
   }
