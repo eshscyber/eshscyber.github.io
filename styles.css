@@ -222,11 +222,11 @@ a img{
   width: 100%;
   white-space: nowrap;
   overflow-x: auto;
-  padding-top: 10px;
 }
 
 .android-screen {
   text-align: center;
+  padding-top: 15px;
 }
 
 .android-screen .android-link {
