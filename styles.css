@@ -222,7 +222,7 @@ a img{
   width: 100%;
   white-space: nowrap;
   overflow-x: auto;
-  padding-right: 0px;
+  padding-left: 20px;
 }
 
 .android-screen {
