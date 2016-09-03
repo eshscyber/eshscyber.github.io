@@ -178,7 +178,7 @@ a img{
   background-color: #f3f3f3 !important;
   background: url('images/cybereagles.png');
   background-repeat: no-repeat;
-  background-size: auto auto;
+  background-size: 100px;
   background-position: center 350px;
 }
 
