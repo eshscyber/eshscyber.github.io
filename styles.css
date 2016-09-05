@@ -320,6 +320,7 @@ a img{
   width: 100%;
   text-align: center;
   background-color: #37474f;
+  opacity: 0.5;
 }
 
 .android-wear-band-text {
