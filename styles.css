@@ -329,6 +329,7 @@ a img{
   padding: 24px;
   text-align: left;
   color: white;
+  opacity: 1;
 }
 
   .android-wear-band-text p {
