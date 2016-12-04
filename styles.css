@@ -41,6 +41,12 @@ a img{
 .centeredblock {
   margin: auto;
 }
+
+.parallaxwindow {
+  height: 600px;
+  background: no-repeat fixed;
+}
+
 .android-search-box .mdl-textfield__input {
   color: rgba(0, 0, 0, 0.87);
 }
