@@ -45,6 +45,8 @@ a img{
 .parallaxwindow {
   height: 600px !important;
   background: no-repeat fixed !important;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .android-search-box .mdl-textfield__input {
