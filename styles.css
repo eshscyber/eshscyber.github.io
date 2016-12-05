@@ -20,7 +20,7 @@ body {
 }
 
 p {
-  opacity: 1 !important;
+  /*opacity: 1 !important*/;
 }
 
 /* Disable ugly boxes around images in IE10 */
