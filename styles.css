@@ -50,18 +50,21 @@ a img{
 
 .separatorblock {
   height: 160px;
+  text-align: center;
 }
 
 .separatorblock-quote {
-  padding-top: 20%;
+  padding-top: 65px;
   font-family: 'Pacifico', cursive;
   font-size: 28px;
+  color: #212121
 }
 
 .separatorblock-quotee {
   padding-top 10%
   font-family: 'Roboto Slab';
-  font-size: 8px;
+  font-size: 1px;
+  color: #757575;
 }
 
 .android-search-box .mdl-textfield__input {
