@@ -58,14 +58,14 @@ a img{
   font-family: 'Pacifico', cursive;
   font-size: 28px;
   color: #000000;
-  opacity: 0.18 !important;
+  opacity: 0.54 !important;
 }
 
 .separatorblock-quotee {
   font-family: Roboto Slab;
   font-size: 11px;
   color: #000000;
-  opacity: 0.28 !important;
+  opacity: 0.38 !important;
 }
 
 .android-search-box .mdl-textfield__input {
@@ -252,25 +252,25 @@ a img{
   padding-bottom: 80px;
 }
 
-.divisions-list {
+.android-screens {
   text-align: center;
   width: 100%;
   white-space: nowrap;
   overflow-x: auto;
 }
 
-.divisions-list-item {
+.android-screen {
   text-align: center;
   padding-top: 25px;
 }
 
-.divisions-list-item .material-link {
+.android-screen .material-link {
   margin-top: 16px;
   display: block;
   z-index: 2;
 }
 
-.image-link {
+.android-image-link {
   text-decoration: none;
 }
 
@@ -280,7 +280,7 @@ a img{
   margin-right: 32px;
 }
 
-  .android-wear .divisions-list-item-image {
+  .android-wear .android-screen-image {
     width: 40%;
     z-index: 1;
   }
@@ -292,13 +292,13 @@ a img{
   margin-right: 48px;
 }
 
-  .android-phone .divisions-list-item-image {
+  .android-phone .android-screen-image {
     width: 100%;
     z-index: 1;
   }
 
 
-.divisions-list-item-image--square {
+.android-tablet {
   display: inline-block;
   width: 110px;
   margin-right: 64px;
@@ -309,7 +309,7 @@ a img{
     z-index: 1;
   }
 
-  .divisions-list-item-image--square .material-link {
+  .android-tablet .material-link {
     display: block;
     z-index: 2;
   }
@@ -595,4 +595,4 @@ a img{
 
   .emoji {
     font-family: notoemoji
-  }
+}
