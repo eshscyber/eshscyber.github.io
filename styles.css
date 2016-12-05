@@ -48,6 +48,22 @@ a img{
   background-attachment: fixed !important;
 }
 
+.separatorblock {
+  height: 250px;
+}
+
+.separatorblock-quote {
+  padding-top: 20%;
+  font-family: 'Pacifico', cursive;
+  font-size: 36px;
+}
+
+.seperatorblock-quotee {
+  padding-top 10%
+  font-family: 'Josefin Slab';
+  font-size: 8px;
+}
+
 .android-search-box .mdl-textfield__input {
   color: rgba(0, 0, 0, 0.87);
 }
