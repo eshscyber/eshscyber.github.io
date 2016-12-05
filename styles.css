@@ -244,7 +244,7 @@ a img{
     font-weight: 300;
   }
 
-.android-screen-section {
+.division-section {
   position: relative;
   padding-top: 60px;
   padding-bottom: 80px;
@@ -262,7 +262,7 @@ a img{
   padding-top: 25px;
 }
 
-.android-screen .android-link {
+.android-screen .material-link {
   margin-top: 16px;
   display: block;
   z-index: 2;
@@ -307,7 +307,7 @@ a img{
     z-index: 1;
   }
 
-  .android-tablet .android-link {
+  .android-tablet .material-link {
     display: block;
     z-index: 2;
   }
@@ -373,16 +373,16 @@ a img{
     padding-top: 8px;
   }
 
-.android-link {
+.material-link {
   text-decoration: none;
   color: #3F51B5 !important;
 }
 
-  .android-link:hover {
+  .material-link:hover {
     color: #303F9F !important;
   }
 
-  .android-link .material-icons {
+  .material-link .material-icons {
     position: relative;
     top: -1px;
     vertical-align: middle;
@@ -403,22 +403,22 @@ a img{
     top: 6px;
   }
 
-.android-customized-section {
+.about-section {
   text-align: center;
 }
 
-.android-customized-section-text {
+.about-section-text {
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
   padding: 80px 16px 0 16px;
 }
 
-  .android-customized-section-text p {
+  .about-section-text p {
     padding-top: 16px;
   }
 
-.android-customized-section-image {
+.about-section-image {
   background: url('images/devices.jpg') center top no-repeat;
   background-size: cover;
   height: 400px;
