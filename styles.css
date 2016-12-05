@@ -338,14 +338,21 @@ a img{
   }
 
 
-.android-wear-section {
+.cp-section {
   position: relative;
   background: url('images/8f562c_df913618ba054be18e4f0a8a3027ccc7.jpg') right top no-repeat;
   background-size: cover;
   height: 800px;
 }
 
-.android-wear-band {
+.zr-section {
+  position: relative;
+  background: url('images/zrscreenshot.png') right top no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+
+.image-band {
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -354,7 +361,7 @@ a img{
   opacity: 0.8;
 }
 
-.android-wear-band-text {
+.image-band-text {
   max-width: 800px;
   margin-left: 25%;
   padding: 24px;
@@ -362,7 +369,7 @@ a img{
   color: white;
 }
 
-  .android-wear-band-text p {
+  .image-band-text p {
     padding-top: 8px;
   }
 
