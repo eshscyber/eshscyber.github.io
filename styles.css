@@ -20,7 +20,7 @@ body {
 }
 
 p {
-  /*opacity: 1 !important*/;
+  opacity: 1 !important;
 }
 
 /* Disable ugly boxes around images in IE10 */
@@ -58,7 +58,7 @@ a img{
   font-family: 'Pacifico', cursive;
   font-size: 28px;
   color: #000000;
-  opacity; 0.54 !important;
+  opacity: 0.54 !important;
 }
 
 .separatorblock-quotee {
