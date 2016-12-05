@@ -49,16 +49,16 @@ a img{
 }
 
 .separatorblock {
-  height: 250px;
+  height: 160px;
 }
 
 .separatorblock-quote {
   padding-top: 20%;
   font-family: 'Pacifico', cursive;
-  font-size: 36px;
+  font-size: 28px;
 }
 
-.seperatorblock-quotee {
+.separatorblock-quotee {
   padding-top 10%
   font-family: 'Josefin Slab';
   font-size: 8px;
