@@ -57,13 +57,15 @@ a img{
   padding-top: 60px;
   font-family: 'Pacifico', cursive;
   font-size: 28px;
-  color: #212121
+  color: #000000;
+  opacity; 0.54;
 }
 
 .separatorblock-quotee {
   font-family: Roboto Slab;
   font-size: 11px;
-  color: #757575;
+  color: #000000;
+  opacity: 0.38;
 }
 
 .android-search-box .mdl-textfield__input {
