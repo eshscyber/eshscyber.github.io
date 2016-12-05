@@ -20,7 +20,8 @@ body {
 }
 
 p {
-  opacity: 1 !important;
+  opacity: 1 !important
+    margin-bottom: 80px;;
 }
 
 /* Disable ugly boxes around images in IE10 */
@@ -250,6 +251,7 @@ a img{
   position: relative;
   padding-top: 60px;
   padding-bottom: 80px;
+  margin-bottom: 80px;
 }
 
 .android-screens {
